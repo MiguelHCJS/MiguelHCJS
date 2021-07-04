@@ -10,11 +10,11 @@
   para desenvolver aplicações e/ou melhorias, com ideias para gerir e/ou facilitar nas áreas da gestão
   e front-end.
  
->" Existe o começo, o meio e o fim
->o começo fácil, difícil ou aquele que apenas problematizamos para nem se quer começar,
->o meio pode ser memorizado, aprendido, aperfeiçoado,
->o fim pode chegar ou não, logo podemos determinar a existência
->do começo, meio e fim de nossa história. "
+>" Existe o começo, o meio e o fim<br >
+ >o começo fácil, difícil ou aquele que apenas problematizamos para nem se quer começar,<br >
+ >o meio pode ser memorizado, aprendido, aperfeiçoado,<br >
+ >o fim pode chegar ou não, logo podemos determinar a existência<br >
+ >do começo, meio e fim de nossa história. "
 
 <br/>
 
