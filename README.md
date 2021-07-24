@@ -2,7 +2,7 @@
 
 - Formado em administração
 - Buscando o desenvolvimento em Front-end.
-- Estudo constante, iniciados em meados de 2019, começo de 2020
+- Estudo constante, iniciados em meados de 2019.
 
 ## NO DECORRER...
 
