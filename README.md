@@ -21,7 +21,7 @@
 [![Facebook](https://icons.iconarchive.com/icons/uiconstock/stitched-social-media/48/facebook-icon.png)](https://www.facebook.com/miguel.esseker)
 [![Instagram](https://icons.iconarchive.com/icons/uiconstock/stitched-social-media/48/instagram-icon.png)](https://www.instagram.com/miguelhcssjs/)
 [![LinkedIn](https://icons.iconarchive.com/icons/uiconstock/stitched-social-media/48/linkedin-icon.png)](https://www.linkedin.com/in/miguel-ten%C3%B3rio-b34a24140/)
-<!--[![CodePen]()](https://codepen.io/Miguel-HCJS)-->
+[![CodePen](https://github.com/MiguelHCJS/MiguelHCJS/blob/master/img/codepen.png)](https://codepen.io/Miguel-HCJS)
 <!--
 [![site](https://icons.iconarchive.com/icons/blackvariant/button-ui-system-folders-alt/48/Sites-2-icon.png)](link do site)
 -->
