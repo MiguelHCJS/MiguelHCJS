@@ -1,9 +1,9 @@
-## EM SUMA...
+## EM SUMA
 
 - Formado em administração
 - Buscando o desenvolvimento em Front-end.
 
-## NO DECORRER...
+## OBJETIVOS
 
   Tenho o interesse de unificar minha formação em gestão, com o conhecimento adquirido em front-end,
   para desenvolver aplicações e/ou melhorias, com ideias para gerir e/ou facilitar nas áreas da gestão
