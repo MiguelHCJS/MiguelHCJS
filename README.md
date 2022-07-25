@@ -1,13 +1,10 @@
 ## EM SUMA
 
 - Formado em administração
-- Buscando o desenvolvimento em Front-end.
+- Desenvolvendo Python e SQL
+- Noções de Front-End.
 
 ## OBJETIVOS
-
-  Tenho o interesse de unificar minha formação em gestão, com o conhecimento adquirido em front-end,
-  para desenvolver aplicações e/ou melhorias, com ideias para gerir e/ou facilitar nas áreas da gestão
-  e front-end.
  
 >" Existe o começo, o meio e o fim<br >
  >o começo fácil, difícil ou aquele que apenas problematizamos para nem se quer começar,<br >
