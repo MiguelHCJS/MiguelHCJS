@@ -1,28 +1,16 @@
-## EM SUMA
 
-- Formado em administração
-- Desenvolvendo Python e SQL
-- Noções de Front-End.
+Administração & Gestão de projetos
 
-## OBJETIVOS
- 
->" Existe o começo, o meio e o fim<br >
- >o começo fácil, difícil ou aquele que apenas problematizamos para nem se quer começar,<br >
- >o meio pode ser memorizado, aprendido, aperfeiçoado,<br >
- >o fim pode chegar ou não, logo podemos determinar a existência<br >
- >do começo, meio e fim de nossa história. "
+Estudando Python e SQL
 
-<!-- <div>
-  <a href="https://github.com/MiguelHCJS">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MiguelHCJS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&locale=pt-br&hide=stars"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&langs_count=8&theme=great-gatsby&locale=pt-br"/> 
-</div> -->
+Noções de Front-End.
 
 ## LINGUAGENS
 <div style='display: inline-block;'>
   <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width='70em' src='https://icons.iconarchive.com/icons/cornmanthe3rd/plex/96/Other-python-icon.png'>
   ...
 <div>
 
