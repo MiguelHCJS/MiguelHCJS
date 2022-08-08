@@ -1,9 +1,10 @@
+## So... It's me
 
-Administração & Gestão de projetos
+Administration and Project management
 
-Estudando Python e SQL
+Studying Python e SQL
 
-Noções de Front-End.
+Notions in Front-End.
 
 ## LINGUAGENS
 <div style='display: inline-block;'>
