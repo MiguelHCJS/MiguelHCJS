@@ -2,7 +2,7 @@
 
 Administration and Project management
 
-Studying Python e SQL
+Studying Python and SQL
 
 Notions in Front-End.
 
