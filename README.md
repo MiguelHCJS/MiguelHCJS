@@ -6,6 +6,8 @@ Studying Python and SQL
 
 Notions in Front-End.
 
+**[Vitrine.Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)**
+
 ## LINGUAGENS
 <div style='display: inline-block;'>
   <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
