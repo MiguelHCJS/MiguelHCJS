@@ -10,7 +10,6 @@ Notions in Front-End.
 <div style='display: inline-block;'>
   <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width='70em' src='https://icons.iconarchive.com/icons/cornmanthe3rd/plex/96/Other-python-icon.png'>
   ...
 <div>
