@@ -1,8 +1,6 @@
-## So... It's me
-
 Administration and Project management
 
-Studying Software Engineering, Python and SQL
+Studying Software Engineering, Python, R and SQL
 
 Notions in Front-End.
 
