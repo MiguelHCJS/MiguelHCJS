@@ -9,7 +9,6 @@ Notions in Front-End.
 ## LINGUAGENS
 <div style='display: inline-block;'>
   <img width='70em' src='https://icons.iconarchive.com/icons/cornmanthe3rd/plex/96/Other-python-icon.png'>
-  <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img width='70em' src='https://icons.iconarchive.com/icons/hechiceroo/mnemo/128/sql-icon.png'>
 <div>
 
