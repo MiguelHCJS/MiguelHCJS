@@ -1,5 +1,7 @@
 Administration and Project management;
+
 Studying for Data Science;
+
 Notions in Front-End;
 
 **[Vitrine.Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)**
