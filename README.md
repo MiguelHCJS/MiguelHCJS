@@ -1,8 +1,6 @@
-Administration and Project management
-
-Studying Software Engineering, Python, R and SQL
-
-Notions in Front-End.
+Administration and Project management;
+Studying for Data Science;
+Notions in Front-End;
 
 **[Vitrine.Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)**
 
