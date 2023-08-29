@@ -14,6 +14,10 @@ Notions in Front-End;
   <img width='70em' src='https://icons.iconarchive.com/icons/hechiceroo/mnemo/128/sql-icon.png'>
 <div>
 
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&title_color=c4721f&bg_color=000000&border_color=1a1a1a)](https://github.com/MiguelHCJS/readme.md)
+
 
 ## Social
   
