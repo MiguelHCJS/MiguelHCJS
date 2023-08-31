@@ -7,11 +7,16 @@ Notions in Front-End;
 **[Vitrine.Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)**
 
 
-## Programming language and database
+## Skills
 
 <div style='display: inline-block;'>
-  <img width='70em' src='https://icons.iconarchive.com/icons/cornmanthe3rd/plex/96/Other-python-icon.png'>
-  <img width='70em' src='https://icons.iconarchive.com/icons/hechiceroo/mnemo/128/sql-icon.png'>
+  <img width='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img width='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 <div>
 
 ## Top Langs
