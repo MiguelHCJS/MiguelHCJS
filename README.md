@@ -30,6 +30,6 @@ Notions in Front-End;
   <a href='https://www.linkedin.com/in/miguel-ten%C3%B3rio-b34a24140/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href='https://www.instagram.com/miguelhcssjs/' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
   <a href='https://www.facebook.com/miguel.esseker' target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href='https://developerpy.com.br/' target='_blank'><img src="https://img.shields.io/badge/My%20Site%3A%20Portfolio-gray?style=for-the-badge&logo=site" /></a>
+  <a href='https://developerpy.com.br/' target='_blank'><img width='100em' src="https://developerpy.com.br/static/global/img/logo.png" /></a>
   
 </div>
