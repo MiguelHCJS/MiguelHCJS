@@ -1,15 +1,16 @@
 <img width=100% src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Python_Developer&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 
+🔧 Administration and Project management
 
-Administration and Project management;
+🖥️ Back-end developer
 
-Back-end developer;
+🌐 Notions in Front-End
 
-Notions in Front-End;
+📚 [Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)
 
-**[Vitrine.Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)**
 
+<br>
 
 ## Skills
 
