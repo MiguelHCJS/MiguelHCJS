@@ -3,7 +3,7 @@
 
 🔧 Administration and Project management
 
-🖥️ Back-end developer
+🖥️ Software Engineer / Back-end developer
 
 🌐 Notions in Front-End
 
