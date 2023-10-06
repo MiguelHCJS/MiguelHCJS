@@ -1,5 +1,5 @@
 <img width=100% src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Python_Developer&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 
 🔧 Administration and Project management
 
