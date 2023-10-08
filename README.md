@@ -29,6 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&title_color=c4721f&bg_color=000000&border_color=1a1a1a)](https://github.com/MiguelHCJS/readme.md)
 
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&theme=dark)
 
 ## Social
   
