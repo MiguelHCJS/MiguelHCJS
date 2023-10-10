@@ -9,7 +9,6 @@
 
 📚 [Dev_Alura](https://cursos.alura.com.br/vitrinedev/miguelhcjs)
 
-
 <br>
 
 ## Skills
@@ -25,11 +24,16 @@
   <img width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 <div>
 
-## Top Langs
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&title_color=c4721f&bg_color=000000&border_color=1a1a1a)](https://github.com/MiguelHCJS/readme.md)
+## Top Langs & Statistics
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&theme=dark)
+<div style='display: inline-block;'>
+  <img align="left" width='450em' height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&title_color=c4721f&bg_color=000000&border_color=1a1a1a)](https://github.com/MiguelHCJS/readme.md)"/>
+  <img align="" width='400em' height="163em" src="https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&theme=dark"/>
+</div>
+
+<br>
 
 ## Social
   
@@ -38,7 +42,6 @@
   <a href='https://www.instagram.com/miguelhcssjs/' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
   <a href='https://www.facebook.com/miguel.esseker' target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href='https://developerpy.com.br/' target='_blank'><img width='100em' src="https://developerpy.com.br/static/global/img/logo.png" /></a>
-  
 </div>
 
 <img width=100% src="https://camo.githubusercontent.com/968d97609766ee70d343c94a988ff13dacc6f07deeca3a01a5f75dbbf602295d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3137302673656374696f6e3d666f6f74657226666f6e7453697a653d343226666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e67" />
