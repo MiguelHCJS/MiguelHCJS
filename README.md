@@ -30,7 +30,7 @@
 
 <div style='display: inline-block;'>
   <img align="left" width='350em' height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHCJS&layout=compact&title_color=c4721f&bg_color=000000&border_color=1a1a1a)](https://github.com/MiguelHCJS/readme.md)"/>
-  <img align="" width='300em' height="163em" src="https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&theme=dark"/>
+  <img align="" width='350em' height="163em" src="https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&theme=dark"/>
 </div>
 
 <br>
