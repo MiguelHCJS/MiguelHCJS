@@ -24,13 +24,11 @@
 
 <br>
 
-<div style='display: inline-block;'>
-  <p><img align="left" height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelhcjs&show_icons=true&locale=en&layout=compact&theme=dark" alt="miguelhcjs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelhcjs&show_icons=true&locale=en&layout=compact&theme=dark" alt="miguelhcjs" /></p>
   
-  <p>&nbsp;<img align="center" height='185em' src="https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&locale=en&theme=dark" alt="miguelhcjs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelhcjs&show_icons=true&locale=en&theme=dark" alt="miguelhcjs" /></p>
   
-  <p><img align="center" heght='160em' src="https://github-readme-streak-stats.herokuapp.com/?user=miguelhcjs&theme=dark" alt="miguelhcjs" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelhcjs&theme=dark" alt="miguelhcjs" /></p>
 
 <br>
 
