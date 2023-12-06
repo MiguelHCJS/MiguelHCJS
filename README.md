@@ -22,20 +22,22 @@
 <!--REPOSITORIOS-->
 <div align="center" width="100%">
     <a href="https://github.com/estacio-alunos/cyber-bank" title="Cyber Bank">
-      <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=estacio-alunos&repo=cyber-bank&theme=react&border_color=61dafb&border_radius=10">
+      <img align="left" height="110" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=estacio-alunos&repo=cyber-bank&theme=react&border_color=61dafb&border_radius=10">
     </a>
     <a href="https://github.com/MiguelHCJS/Data-Science" title="Data Science">
-      <img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=Data-Science&theme=react&border_color=61dafb&border_radius=10">
+      <img align="right" height="110" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=Data-Science&theme=react&border_color=61dafb&border_radius=10">
     </a>
+</div>
+<div align="center" width="100%">
     <a href="https://github.com/MiguelHCJS/role-playing-game-estructure" title="Role Playing Gamee">
-      <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=role-playing-game-estructure&theme=react&border_color=61dafb&border_radius=10">
+      <img align="left" height="110" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=role-playing-game-estructure&theme=react&border_color=61dafb&border_radius=10">
     </a>
     <a href="https://github.com/MiguelHCJS/django-rest" title="Django-rest">
-      <img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=django-rest&theme=react&border_color=61dafb&border_radius=10">
+      <img align="right" height="110" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelHCJS&repo=django-rest&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center" display="block">Estatísticas</h2>
 
