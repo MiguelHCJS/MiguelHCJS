@@ -19,7 +19,7 @@
 
 <h2 align="center">Projetos</h2>
 
-<!--REPOSITORIOS-->
+<!--REPOSITORIOS
 <div align="center" width="100%">
     <a href="https://github.com/estacio-alunos/cyber-bank" title="Cyber Bank">
       <img align="left" height="110" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=estacio-alunos&repo=cyber-bank&theme=react&border_color=61dafb&border_radius=10">
@@ -38,6 +38,12 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+-->
+- [Cyber Bank](https://github.com/estacio-alunos/cyber-bank)
+  - Em desenvolvimento com amigos de faculdade
+
+- [Estudos em Ciência de dados](https://github.com/MiguelHCJS/Data-Science)
+  - Documentação com foco em documentar a parte técnica e prática dos meus estudos em CD
 
 <h2 align="center" display="block">Estatísticas</h2>
 
