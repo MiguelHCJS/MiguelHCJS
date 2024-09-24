@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 
 <h1 align="center">Hey, Sou Miguel Tenório</h1>
-<h3 align="center">Atualmente trabalho como RPA Developer, sou formado em Administração e Pós Graduado em Gestão de Projetos, Cursando atualmente Engenharia de Software, focado em Ciência de Dados e automações.</h3>
+<h3 align="center">Atualmente trabalho como RPA Developer, sou formado em Administração e Pós Graduado em Gestão de Projetos, tenho como foco Ciência de Dados e automações.</h3>
 
 <h2 align="center">Habilidades</h2>
 
